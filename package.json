@@ -1,0 +1,16 @@
+{
+  "name": "refactored-jest-playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mmarkelov/refactored-jest-playwright",
+  "author": "maksim.markelov <Maksim.Markelov@nexign.com>",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^25.4.0",
+    "jest-runner": "^25.4.0",
+    "playwright": "^0.15.0"
+  }
+}
